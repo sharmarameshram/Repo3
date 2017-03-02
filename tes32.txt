@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 2C0A-F39D
+
+ Directory of C:\Users\RAMESH\Desktop\Again
+
+03/02/2017  12:35 PM    <DIR>          .
+03/02/2017  12:35 PM    <DIR>          ..
+03/02/2017  12:10 PM               429 Prachi.class
+03/02/2017  11:51 AM               117 Prachi.java
+03/02/2017  12:35 PM                 0 tes32.txt
+               3 File(s)            546 bytes
+               2 Dir(s)  122,715,353,088 bytes free
